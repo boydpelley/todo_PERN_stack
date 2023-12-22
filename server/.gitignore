@@ -1,2 +1,2 @@
 # Ignore db.js
-/db.js
+**/db.js
